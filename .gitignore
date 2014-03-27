@@ -1,0 +1,8 @@
+html/
+ios/
+android/
+.project
+.classpath
+.settings/
+target/
+*.class
